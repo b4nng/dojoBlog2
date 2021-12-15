@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "Novo blog",
+            "body": "Lorem Ipsm", 
+            "author": "ze", 
+            "id": 1
+        },
+        {
+            "title": "TesteGalrera", 
+            "body": "Lorem Ipsm", 
+            "author": "jao", 
+            "id": 2
+        },
+        {
+            "title": "IUurimartins uooou", 
+            "body": "Lorem Ipsm", 
+            "author": "ze", 
+            "id": 3
+        }
+    ]
+}
